@@ -1,0 +1,14 @@
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\bin\Debug\net8.0\Loops_BarnettLandon.exe
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\bin\Debug\net8.0\Loops_BarnettLandon.deps.json
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\bin\Debug\net8.0\Loops_BarnettLandon.runtimeconfig.json
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\bin\Debug\net8.0\Loops_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\bin\Debug\net8.0\Loops_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.AssemblyInfoInputs.cache
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.AssemblyInfo.cs
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.csproj.CoreCompileInputs.cache
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\refint\Loops_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\Loops_BarnettLandon.genruntimeconfig.cache
+C:\Users\LandonBarnett\source\repos\Loops_BarnettLandon\Loops_BarnettLandon\obj\Debug\net8.0\ref\Loops_BarnettLandon.dll

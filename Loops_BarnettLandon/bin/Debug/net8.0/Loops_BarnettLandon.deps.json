@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Loops_BarnettLandon/1.0.0": {
+        "runtime": {
+          "Loops_BarnettLandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops_BarnettLandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
